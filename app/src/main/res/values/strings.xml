@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeOrNotPrime</string>
+    <string name="prime">PRIME</string>
+    <string name="composite">COMPOSITE</string>
+    <string name="question">Is the following number Prime or Composite?</string>
+    <string name="action_settings">Settings</string>
+</resources>
